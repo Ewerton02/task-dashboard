@@ -123,4 +123,4 @@ npm run build
 
 ## 👨‍💻 Autor
 
-Desenvolvido por **Ewerton**.
+Desenvolvido por **Ewerton Alves**.
