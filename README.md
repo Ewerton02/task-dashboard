@@ -16,7 +16,7 @@ Dashboard de gerenciamento de tarefas desenvolvido para demonstrar habilidades e
 | **React.memo** | Otimização de re-renders |
 | **Tailwind CSS** | Estilização utilitária |
 
-## 📁 Estrutura do Projeto
+## Estrutura do Projeto
 
 ```
 src/
@@ -44,7 +44,7 @@ src/
 - ✅ Debounce na busca
 - ✅ Responsivo (mobile-first)
 
-## 🎯 Conceitos Demonstrados
+## Conceitos Demonstrados
 
 ### Zustand (Estado Global)
 ```typescript
