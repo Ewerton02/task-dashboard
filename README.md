@@ -4,7 +4,7 @@ Dashboard de gerenciamento de tarefas desenvolvido para demonstrar habilidades e
 
 ![Task Dashboard](./preview.png)
 
-## 🚀 Tecnologias Demonstradas
+## Tecnologias Demonstradas
 
 | Tecnologia | Uso no Projeto |
 |------------|----------------|
@@ -33,7 +33,7 @@ src/
 └── main.tsx
 ```
 
-## ✨ Features
+## Features
 
 - ✅ CRUD completo de tasks
 - ✅ Filtros por status, prioridade e busca
@@ -96,7 +96,7 @@ export const TaskCard = memo(
 </AnimatePresence>
 ```
 
-## 🛠️ Como Rodar
+## Como Rodar
 
 ```bash
 # Instalar dependências
@@ -109,7 +109,7 @@ npm run dev
 npm run build
 ```
 
-## 📝 Decisões Técnicas
+## Decisões Técnicas
 
 1. **API Simulada**: Optei por simular a API com delays para demonstrar loading states reais.
 
@@ -121,6 +121,6 @@ npm run build
 
 5. **useCallback/useMemo**: Aplicados estrategicamente onde há benefício real de performance.
 
-## 👨‍💻 Autor
+## Autor
 
 Desenvolvido por **Ewerton Alves**.
